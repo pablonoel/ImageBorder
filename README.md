@@ -1,6 +1,6 @@
 # ImageBorder
 
-Batch-process images by adding a uniform border and padding to a fixed aspect ratio using ImageMagick 7.
+Batch-process images by adding a uniform border and padding to a fixed aspect ratio using [ImageMagick 7](https://imagemagick.org/).
 
 ## What it does
 - Border thickness in % = `border_pct` of the narrowest side (min(width, height)).
