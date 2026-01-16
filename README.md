@@ -1,6 +1,6 @@
 # ImageBorder
 
-Batch-process images by adding a uniform border and padding to a fixed aspect ratio using [ImageMagick 7](https://imagemagick.org/).
+Batch-process images by adding a uniform border and padding to a fixed 4x5 aspect ratio using [ImageMagick 7](https://imagemagick.org/) meant to be shared as an Instagram post.
 
 ## What it does
 - Border thickness in % = `border_pct` of the narrowest side (min(width, height)).
